@@ -1,6 +1,6 @@
 package test;
 
-public class GitTest {
+public class TPMGenerator {
 
 	public static void main(String[] args) 
 	{
