@@ -14,6 +14,7 @@ public class TPMGenerator implements ActionListener
 	JTextArea offeringDetails;
     TPMGenerator()
     {
+    	//Completed testing
     	f=new JFrame();
     	offeringDetails=new JTextArea();
     	
